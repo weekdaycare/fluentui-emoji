@@ -1,0 +1,1 @@
+DIR *.svg*  /B >LIST.TXT
